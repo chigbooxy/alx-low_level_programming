@@ -1,4 +1,5 @@
-/** * hash_djb2 - hashes a string passed to it
+/**
+ * hash_djb2 - hashes a string passed to it
  * @str: The string to be hashed
  * Return: a hash code as an unsigned int
  */
